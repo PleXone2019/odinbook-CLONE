@@ -4,7 +4,7 @@ ruby '2.1.2'
 gem 'rails', '4.1.1'
 gem 'pg', '0.17.1'
 gem 'sprockets', '2.11.0'
-gem 'haml', '4.0.5'
+gem 'haml', '5.1.2'
 
 gem 'sass-rails', '4.0.3'
 gem 'uglifier', '2.5.1'
