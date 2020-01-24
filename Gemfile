@@ -15,7 +15,7 @@ gem 'jquery-turbolinks', '2.1.0'
 gem 'jbuilder', '2.1.1'
 gem 'figaro', '0.7.0'
 
-gem 'devise', '3.2.4'
+gem 'devise', '4.7.1'
 gem 'omniauth', '1.2.2'
 gem 'omniauth-facebook', '1.6.0'
 gem 'country_select', github: 'stefanpenner/country_select'
